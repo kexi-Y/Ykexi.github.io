@@ -32,6 +32,16 @@
 ]]></content>
   </entry>
   <entry>
+    <title>hexo-admin的一个test</title>
+    <url>/2023/05/02/hexo-admin%E7%9A%84%E4%B8%80%E4%B8%AAtest/</url>
+    <content><![CDATA[<p>接下来我还得学习markdown，因为全都忘光光了<br>试试看插入图片吧</p>
+<p><img src="/%5Cimages%5Cpasted-0.png%5C" alt="upload successful"></p>
+]]></content>
+      <tags>
+        <tag>test1</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>test1</title>
     <url>/2022/04/07/test1/</url>
     <content><![CDATA[]]></content>
