@@ -16,6 +16,7 @@
 .img-column a,
 .gallery-column a {
   border-bottom: 0px;
+  width: 400px;
 }
 .gallery-item {
   margin-bottom: -50px;

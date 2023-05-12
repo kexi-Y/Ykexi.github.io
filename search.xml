@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>进行文章的展示</title>
+    <url>/2022/04/07/%E8%BF%9B%E8%A1%8C%E6%96%87%E7%AB%A0%E7%9A%84%E5%B1%95%E7%A4%BA/</url>
+    <content><![CDATA[<p>​        这是一篇<strong>示例文章</strong>，在这篇文章中我将会展示文章的置顶、阅读全文功能；同时，添加标签和分类进行试验。</p>
+<p>​        下面是阅读全文功能：</p>
+ <span id="more"></span> 
+
+<p>​        点击了“阅读全文”按钮方可看到完整的内容。</p>
+<p>​        下面测试图片的展示：</p>
+<p><img src="/2022/04/07/%E8%BF%9B%E8%A1%8C%E6%96%87%E7%AB%A0%E7%9A%84%E5%B1%95%E7%A4%BA/hexo.jpg" alt="hexo"></p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>展示</tag>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>test</title>
     <url>/2023/05/02/test/</url>
     <content><![CDATA[<p><img src="/2023/05/02/test/%5Cimages%5Cpasted-2.png%5C" alt="upload successful">图片测试</p>
@@ -11,15 +30,12 @@
 <p><img src="/2023/05/02/test/test%5Cpic1.jpg" alt="pic1"><img src="/2023/05/02/test/%5Cimages%5Cpasted-3.png%5C" alt="upload successful"></p>
 <p><img src="/2023/05/02/test/pic1.jpg" alt="pic1"></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>hexo-admin的一个test</title>
-    <url>/2023/05/02/hexo-admin%E7%9A%84%E4%B8%80%E4%B8%AAtest/</url>
-    <content><![CDATA[<p>接下来我还得学习markdown，因为全都忘光光了<br>试试看插入图片吧</p>
-<p><img src="/2023/05/02/hexo-admin%E7%9A%84%E4%B8%80%E4%B8%AAtest/%5Cimages%5Cpasted-0.png%5C" alt="upload successful"></p>
-]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
       <tags>
         <tag>test1</tag>
+        <tag>展示</tag>
       </tags>
   </entry>
   <entry>
