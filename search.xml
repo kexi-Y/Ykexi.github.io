@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test1</title>
-    <url>/2022/04/07/test1/</url>
-    <content><![CDATA[<p>hey</p>
-]]></content>
-  </entry>
-  <entry>
     <title>test</title>
     <url>/2023/05/02/test/</url>
     <content><![CDATA[<p><img src="/2023/05/02/test/%5Cimages%5Cpasted-2.png%5C" alt="upload successful">图片测试</p>
