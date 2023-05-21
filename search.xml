@@ -15,7 +15,19 @@
         <category>测试</category>
       </categories>
       <tags>
+        <tag>test</tag>
         <tag>展示</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试</title>
+    <url>/2023/05/21/ry/</url>
+    <content><![CDATA[<p>测试一下使用hexo-admin上传文章</p>
+]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+      <tags>
         <tag>test</tag>
       </tags>
   </entry>
