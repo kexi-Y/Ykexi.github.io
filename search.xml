@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>进行文章的展示</title>
-    <url>/2022/04/07/%E8%BF%9B%E8%A1%8C%E6%96%87%E7%AB%A0%E7%9A%84%E5%B1%95%E7%A4%BA/</url>
+    <title>qswl</title>
+    <url>/2022/04/07/qswl/</url>
     <content><![CDATA[<p>​        这是一篇<strong>示例文章</strong>，在这篇文章中我将会展示文章的置顶、阅读全文功能；同时，添加标签和分类进行试验。</p>
 <p>​        下面是阅读全文功能：</p>
  <span id="more"></span> 
 
 <p>​        点击了“阅读全文”按钮方可看到完整的内容。</p>
 <p>​        下面测试图片的展示：</p>
-<p><img data-src="/hexo.jpg" alt="hexo"></p>
+<p><img src="/2022/04/07/qswl/hexo.jpg" alt="hexo"></p>
 ]]></content>
       <categories>
         <category>测试</category>
       </categories>
       <tags>
-        <tag>test</tag>
         <tag>展示</tag>
+        <tag>test</tag>
       </tags>
   </entry>
   <entry>
@@ -34,13 +34,13 @@
   <entry>
     <title>test</title>
     <url>/2023/05/02/test/</url>
-    <content><![CDATA[<p><img data-src="/%5Cimages%5Cpasted-2.png%5C" alt="upload successful">图片测试</p>
+    <content><![CDATA[<p><img src="/2023/05/02/test/%5Cimages%5Cpasted-2.png%5C" alt="upload successful">图片测试</p>
 <p>随便打一点话来试验一下文章预览</p>
  <span id="more"></span> 
 
 <p>这里是剩下的话</p>
-<p><img data-src="/test%5Cpic1.jpg" alt="pic1"><img data-src="/%5Cimages%5Cpasted-3.png%5C" alt="upload successful"></p>
-<p><img data-src="/pic1.jpg" alt="pic1"></p>
+<p><img src="/2023/05/02/test/test%5Cpic1.jpg" alt="pic1"><img src="/2023/05/02/test/%5Cimages%5Cpasted-3.png%5C" alt="upload successful"></p>
+<p><img src="/2023/05/02/test/pic1.jpg" alt="pic1"></p>
 ]]></content>
       <categories>
         <category>Testing</category>
@@ -54,7 +54,7 @@
     <title>My New Post</title>
     <url>/2023/04/19/My-New-Post/</url>
     <content><![CDATA[<p>试一试</p>
-<p><img data-src="E:\blog\source\gallery\相册1\img\pic1.jpg" alt="pic1"></p>
+<p><img src="/2023/04/19/My-New-Post/blog\source\gallery\相册1\img\pic1.jpg" alt="pic1"></p>
 ]]></content>
       <categories>
         <category>Testing</category>
