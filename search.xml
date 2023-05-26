@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>qswl</title>
-    <url>/2022/04/07/qswl/</url>
+    <title>展示</title>
+    <url>/2022/04/07/%E5%B1%95%E7%A4%BA/</url>
     <content><![CDATA[<p>​        这是一篇<strong>示例文章</strong>，在这篇文章中我将会展示文章的置顶、阅读全文功能；同时，添加标签和分类进行试验。</p>
 <p>​        下面是阅读全文功能：</p>
  <span id="more"></span> 
 
 <p>​        点击了“阅读全文”按钮方可看到完整的内容。</p>
 <p>​        下面测试图片的展示：</p>
-<p><img src="/2022/04/07/qswl/hexo.jpg" alt="hexo"></p>
+<p><img src="/2022/04/07/%E5%B1%95%E7%A4%BA/hexo.jpg" alt="hexo"></p>
 ]]></content>
       <categories>
         <category>测试</category>
       </categories>
       <tags>
-        <tag>展示</tag>
         <tag>test</tag>
+        <tag>展示</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试发布新文章2</title>
+    <url>/2023/05/26/%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B8%83%E6%96%B0%E6%96%87%E7%AB%A02/</url>
+    <content><![CDATA[<p>测试一下图片</p>
+<p><img src="/2023/05/26/%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B8%83%E6%96%B0%E6%96%87%E7%AB%A02/hexo.jpg" alt="hexo"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>测试发布新文章</title>
+    <url>/2023/05/26/%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B8%83%E6%96%B0%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>这是一篇测试文章</p>
+]]></content>
+      <tags>
+        <tag>测试</tag>
       </tags>
   </entry>
   <entry>
